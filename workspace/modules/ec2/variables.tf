@@ -5,4 +5,3 @@ variable "ami" {
 variable "instance_type" {
   description = "Instance Type"
 }
-
